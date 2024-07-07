@@ -16,43 +16,43 @@ This project creates an interactive hierarchical graph using Streamlit and `stre
 ### Step-by-Step Guide
 
 #### 1. Clone the Repository
-\`\`\`bash
+```bash
 git clone [https://github.com/yourusername/interactive-hierarchical-graph](https://github.com/Bene94/graph_viewer/new/main).git
 cd interactive-hierarchical-graph
-\`\`\`
+```
 
 #### 2. Set Up a Virtual Environment (Optional but Recommended)
 Create a virtual environment to manage dependencies:
-\`\`\`bash
+```bash
 python -m venv venv
-\`\`\`
+```
 
 Activate the virtual environment:
 - On Windows:
-  \`\`\`bash
-  .\venv\Scripts\activate
-  \`\`\`
+  ```bash
+  .venvScriptsactivate
+  ```
 - On macOS and Linux:
-  \`\`\`bash
+  ```bash
   source venv/bin/activate
-  \`\`\`
+  ```
 
 #### 3. Install Required Packages
 Install the necessary Python packages using pip:
-\`\`\`bash
+```bash
 pip install -r requirements.txt
-\`\`\`
+```
 
-If \`requirements.txt\` is not available, manually install the required packages:
-\`\`\`bash
+If `requirements.txt` is not available, manually install the required packages:
+```bash
 pip install streamlit pandas streamlit-agraph
-\`\`\`
+```
 
 #### 4. Run the Application
 Start the Streamlit application:
-\`\`\`bash
+```bash
 streamlit run app.py
-\`\`\`
+```
 
 ### Usage Instructions
 
@@ -68,23 +68,23 @@ streamlit run app.py
 
 ### CSV File Format
 The CSV file should have two columns:
-- \`parent\`: The parent node.
-- \`child\`: The child node.
+- `parent`: The parent node.
+- `child`: The child node.
 
 Example:
-\`\`\`csv
+```csv
 parent,child
 A,B
 A,C
 B,D
 C,E
-\`\`\`
+```
 
 ### JSON File Format
 The JSON file should contain metadata for each node in the form of key-value pairs.
 
 Example:
-\`\`\`json
+```json
 {
   "A": {"description": "Node A", "mixture": true},
   "B": {"description": "Node B"},
@@ -92,7 +92,7 @@ Example:
   "D": {"description": "Node D"},
   "E": {"description": "Node E"}
 }
-\`\`\`
+```
 
 ## Troubleshooting
 
@@ -100,7 +100,7 @@ Example:
 
 ## License
 
-This project is licensed under the MIT License. See the \`LICENSE\` file for details.
+This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ## Contributing
 
@@ -112,4 +112,4 @@ For any questions or issues, please open an issue in the repository or contact t
 
 ---
 
-Replace \`yourusername\` and \`your-email@example.com\` with your actual GitHub username and email address before using this README.
+Replace `yourusername` and `your-email@example.com` with your actual GitHub username and email address before using this README.
