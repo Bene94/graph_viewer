@@ -17,7 +17,7 @@ This project creates an interactive hierarchical graph using Streamlit and `stre
 
 #### 1. Clone the Repository
 ```bash
-git clone [https://github.com/yourusername/interactive-hierarchical-graph](https://github.com/Bene94/graph_viewer/new/main).git
+git clone https://github.com/Bene94/graph_viewer/new/main.git
 cd interactive-hierarchical-graph
 ```
 
