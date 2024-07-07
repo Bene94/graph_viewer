@@ -1,0 +1,108 @@
+{
+    "A": {
+        "name": "Node A",
+        "date": "2021-01-01"
+    },
+    "B": {
+        "name": "Node B",
+        "date": "2021-01-02"
+    },
+    "C": {
+        "name": "Node C",
+        "date": "2021-01-03"
+    },
+    "D": {
+        "name": "Node D",
+        "date": "2021-01-04",
+        "mixture": "C"
+    },
+    "E": {
+        "name": "Node E",
+        "date": "2021-01-05"
+    },
+    "F": {
+        "name": "Node F",
+        "date": "2021-01-06",
+        "mixture": "B"
+    },
+    "G": {
+        "name": "Node G",
+        "date": "2021-01-07"
+    },
+    "H": {
+        "name": "Node H",
+        "date": "2021-01-08"
+    },
+    "I": {
+        "name": "Node I",
+        "date": "2021-01-09"
+    },
+    "J": {
+        "name": "Node J",
+        "date": "2021-01-10"
+    },
+    "K": {
+        "name": "Node K",
+        "date": "2021-01-11"
+    },
+    "L": {
+        "name": "Node L",
+        "date": "2021-01-12"
+    },
+    "M": {
+        "name": "Node M",
+        "date": "2021-01-13"
+    },
+    "N": {
+        "name": "Node N",
+        "date": "2021-01-14"
+    },
+    "O": {
+        "name": "Node O",
+        "date": "2021-01-15"
+    },
+    "P": {
+        "name": "Node P",
+        "date": "2021-01-16"
+    },
+    "Q": {
+        "name": "Node Q",
+        "date": "2021-01-17"
+    },
+    "R": {
+        "name": "Node R",
+        "date": "2021-01-18"
+    },
+    "S": {
+        "name": "Node S",
+        "date": "2021-01-19"
+    },
+    "T": {
+        "name": "Node T",
+        "date": "2021-01-20"
+    },
+    "U": {
+        "name": "Node U",
+        "date": "2021-01-21"
+    },
+    "V": {
+        "name": "Node V",
+        "date": "2021-01-22"
+    },
+    "W": {
+        "name": "Node W",
+        "date": "2021-01-23"
+    },
+    "X": {
+        "name": "Node X",
+        "date": "2021-01-24"
+    },
+    "Y": {
+        "name": "Node Y",
+        "date": "2021-01-25"
+    },
+    "Z": {
+        "name": "Node Z",
+        "date": "2021-01-26"
+    }
+}
